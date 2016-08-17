@@ -13,6 +13,7 @@
 		88055FEE1D5F410C00B5485E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88055FED1D5F410C00B5485E /* Assets.xcassets */; };
 		88055FF11D5F410C00B5485E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 88055FEF1D5F410C00B5485E /* LaunchScreen.storyboard */; };
 		885E70B11D63F27400A6A231 /* TestScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = 885E70B01D63F27400A6A231 /* TestScene.swift */; };
+		885E70B31D63F6A700A6A231 /* TestScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = 885E70B21D63F6A700A6A231 /* TestScene.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		88055FF01D5F410C00B5485E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		88055FF21D5F410C00B5485E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		885E70B01D63F27400A6A231 /* TestScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestScene.swift; sourceTree = "<group>"; };
+		885E70B21D63F6A700A6A231 /* TestScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = TestScene.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				88055FE81D5F410C00B5485E /* ViewController.swift */,
 				88055FEA1D5F410C00B5485E /* Main.storyboard */,
 				885E70B01D63F27400A6A231 /* TestScene.swift */,
+				885E70B21D63F6A700A6A231 /* TestScene.sks */,
 				88055FED1D5F410C00B5485E /* Assets.xcassets */,
 				88055FEF1D5F410C00B5485E /* LaunchScreen.storyboard */,
 				88055FF21D5F410C00B5485E /* Info.plist */,
@@ -127,6 +130,7 @@
 			files = (
 				88055FF11D5F410C00B5485E /* LaunchScreen.storyboard in Resources */,
 				88055FEE1D5F410C00B5485E /* Assets.xcassets in Resources */,
+				885E70B31D63F6A700A6A231 /* TestScene.sks in Resources */,
 				88055FEC1D5F410C00B5485E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
